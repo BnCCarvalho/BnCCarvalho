@@ -11,10 +11,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bnccarvalho&show_icons=true&locale=en&layout=compact&theme=onedark" alt="bnccarvalho" /></p>
 
 <p align="left">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnccarvalho&show_icons=true&locale=en" alt="bnccarvalho" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnccarvalho&show_icons=true&locale=en&theme=onedark" alt="bnccarvalho" /></p>
 
 <p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnccarvalho&" alt="bnccarvalho" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnccarvalho&&theme=onedark" alt="bnccarvalho" /></p>
 
 - 😄 Pronouns: he, him
 - 🔭 I’m currently working on **Mosaic Fertilizantes**
