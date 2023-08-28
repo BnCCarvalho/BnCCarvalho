@@ -46,7 +46,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/sveltejs/branding/blob/master/svelte-logo.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/sveltejs/branding/blob/master/svelte-logo.svg" alt="svelte" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Support:</h3>
