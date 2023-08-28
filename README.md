@@ -23,7 +23,7 @@
 - 💬 Ask me about **JS, CSS, HTML, PYTHON**
 - 📫 How to reach me **caioc.carvalho@hotmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/caio-carvalho-8523488a/](https://www.linkedin.com/in/caio-carvalho-8523488a/)
-- ⚡ Fun fact: I am known as **"The Beard"**
+- ⚡ Fun fact: I'm known as **"The Beard"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
