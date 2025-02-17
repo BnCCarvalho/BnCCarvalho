@@ -13,9 +13,6 @@
 <p align="left">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bnccarvalho&show_icons=true&locale=en&theme=onedark" alt="bnccarvalho" /></p>
 
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnccarvalho&&theme=onedark" alt="bnccarvalho" /></p>
-
 - 😄 Pronouns: he, him
 - 🔭 I’m currently working on **Aoop - an NTT DATA Company**
 - 🌱 I’m currently learning **CSS and Python**
