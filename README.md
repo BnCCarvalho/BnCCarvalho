@@ -17,10 +17,10 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bnccarvalho&&theme=onedark" alt="bnccarvalho" /></p>
 
 - 😄 Pronouns: he, him
-- 🔭 I’m currently working on **Mosaic Fertilizantes**
+- 🔭 I’m currently working on **Aoop - an NTT DATA Company**
 - 🌱 I’m currently learning **CSS and Python**
 - 👨‍💻 All of my projects are available at [https://github.com/BnCCarvalho](https://github.com/BnCCarvalho)
-- 💬 Ask me about **JS, CSS, HTML, PYTHON**
+- 💬 Ask me about **SERVICENOW, JS, CSS, HTML, PYTHON, RPA, VBA, VBS, WINSHUTTLE**
 - 📫 How to reach me **caioc.carvalho@hotmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/caio-carvalho-8523488a/](https://www.linkedin.com/in/caio-carvalho-8523488a/)
 - ⚡ Fun fact: I'm known as **"The Beard"**
